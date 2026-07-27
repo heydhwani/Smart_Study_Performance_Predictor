@@ -51,7 +51,6 @@ The application is built using Machine Learning and deployed as a Flask web appl
 ### Frontend
 - HTML
 - CSS
-- Bootstrap
 
 ### Deployment
 - Render
@@ -60,7 +59,11 @@ The application is built using Machine Learning and deployed as a Flask web appl
 
 ## 📂 Dataset
 
-**Dataset:** Student Performance Factors Dataset
+**Name:** Student Performance Factors
+
+**Source:** Kaggle
+
+**Link:** https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
 The dataset contains academic and demographic information of students including:
 
@@ -186,14 +189,6 @@ Student_Performance_Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Student_Performance_Prediction.git
-```
-
-Move into the project directory
-
-```bash
-cd Student_Performance_Prediction
-```
 
 Create virtual environment
 
@@ -238,18 +233,6 @@ http://127.0.0.1:5000
 ## 🌐 Live Demo
 
 https://smart-study-performance-predictor.onrender.com
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-> Add a screenshot here
-
-### Prediction Result
-
-> Add a screenshot here
 
 ---
 
